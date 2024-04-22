@@ -1,4 +1,4 @@
-# Welcome to Form Kinetic Loader
+# Welcome to Kinetic Loader
 
 ## Technologies Used
 - HTML & CSS
